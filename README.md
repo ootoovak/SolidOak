@@ -37,7 +37,7 @@ cargo build
 ### OS X (homebrew)
 
 ```Shell
-brew install gtk+3 vte3.rb
+brew install gtk+3 vte3
 brew install libtool automake cmake pkg-config gettext
 cargo build
 ```
